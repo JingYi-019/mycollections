@@ -106,18 +106,20 @@ section{
     object-fit: cover;
 }
 
-
+.about-me-content{
+    padding-top: 1rem 9%;
+}
 
 .about-me-content h1{
-    font-size: 2vw;
+    font-size: 2.5vw;
     padding-top: 3rem;
     margin-top: 60px;
     transition: color 5s ease-in-out;
 }
 
 .about-me-content p{
-    font-size: 1.2vw;
-    line-height: 2vw;
+    font-size: 18px;
+    line-height: 24px;
     margin: 10px 0 30px;
     padding-right: 6rem;
     transition: color 5s ease-in-out;
